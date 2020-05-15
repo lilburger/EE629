@@ -17,3 +17,5 @@ Mr. Lu has told me that there lacks connection between my project and IOT. And I
 Description: We will build a question bank where the number of questions can be set freely. Then we will randomly select some questions from the questions in the question bank for each student participating in the exam. The students will complete the questions and finally the teacher will give students the score.
 
 Inspiriation:Recently, I participated in the online written tests of some companies. I am curious whether their questions are the same for every testee. After checking the information on the Internet, I found that their questions were actually taken from the question bank, so I decided Use java programming to simulate a simple network test.
+
+When searching for information on how to get NBA players 'shooting information, I found an article about how to get NBA players' shooting hot spots. But when I followed the method in the article to get the relevant data, I found that the NBA official website had turned off the relevant functions, so I couldn't get the relevant data.The link of the article is http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/.
