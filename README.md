@@ -1,4 +1,5 @@
-This project has two parts
+This project has three parts
+
 1. analysis of NBA data
 
 Research Backgrounds:
