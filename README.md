@@ -1,6 +1,6 @@
 This project has three parts
 
-1. analysis of NBA data
+1.analysis of NBA data
 
 Research Backgrounds:
 The NBA (National Basketball Association) is widely considered to be the premier men’s professional basketball league in the world. This project is trying to analyze NBA player data.
